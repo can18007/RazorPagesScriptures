@@ -23,6 +23,7 @@ namespace RazorPagesScriptures.Pages.Scriptures
         [BindProperty(SupportsGet = true)]
         public string search { get; set; }
 
+
         [BindProperty(SupportsGet = true)]
         public string search2 { get; set; }
 
